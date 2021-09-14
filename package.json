@@ -1,5 +1,5 @@
 {
-  "homepage": "http://kosserin.github.io/react-todo-app",
+  "homepage": "https://kosserin.github.io/react-todo-app",
   "name": "linux-react-1",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
